@@ -5,3 +5,4 @@ void main()
 {
 	printf("hello world!!!");
 }
+//add some information and test command git diff HEAD
